@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css2?family=Righteous&display=swap);
+body{
+    background-color: #7B68EE;
+    margin: 0px;
+font-size: medium;
+margin-top: 0px;
+}
+header{
+    background-color: #351330 ;
+    margin-top: 0px;
+    padding: 20px 20px;
+}
+.titulo{
+    color: white;
+    font-family: 'Righteous', cursive;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    color:#F5FFFA;
+}
+.lista{
+    background-color: #351330;
+    size: 00px;
+    color: white;
+    font-family: 'Righteous', cursive;
+}
